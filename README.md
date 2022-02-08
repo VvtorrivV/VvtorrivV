@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VvtorrivV
-- I am student at Gdynia Maritime University (studying Computer Science)
+- 👋 Hi, I’m Wiktoria
+- I am IT student at Gdynia Maritime University 
 - You can mostly find me in stable as I am horse lover
-- In my free time I like to do some sports (like swimming, climbing), learn new things (learning greman or knitting), play games (single or multiplayer) or simply read books :D
+- In my free time I like to do some sports (like swimming, climbing), learn new things, play games (single or multiplayer) or simply read books :D
 
 
 <!---
