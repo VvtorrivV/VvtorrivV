@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Wiktoria
-- I am IT student at Gdynia Maritime University 
-- You can mostly find me in stable as I am horse lover
-- In my free time I like to do some sports (like swimming, climbing), learn new things, play games (single or multiplayer) or simply read books :D
+- I am passionate Data Analyst working in the marine industry 
+
+Me in a shortcut:
+-  Dressage horse rider (I am regurarly taking part in competitions: national and regional. My biggest successes: V-ce 
+Master of Poland 2013 and Master of Pomeranian voivodeship 2015).
+- Member of Dragon Legion (Non-profit organization. Community brings people together from all over Europe with 
+RPG and boradgames).
+- Math lover (That’s why I chose to create computer decission support app as my Bachelor’s Thesis).
+- Bookworm (Mostly fantasy and criminal books).
+- Others (Like crocheting, baking, climbing and swimming).
 
 
 <!---
