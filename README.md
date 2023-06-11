@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Wiktoria
-- I am passionate Data Analyst working in the marine industry 
+👋 Hi, I’m Wiktoria
+I am passionate Data Analyst working in the marine industry 
 
 Me in a shortcut:
 -  Dressage horse rider (I am regurarly taking part in competitions: national and regional. My biggest successes: V-ce 
@@ -11,7 +11,4 @@ RPG and boradgames).
 - Others (Like crocheting, baking, climbing and swimming).
 
 
-<!---
-VvtorrivV/VvtorrivV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
